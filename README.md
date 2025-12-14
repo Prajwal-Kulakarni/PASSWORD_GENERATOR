@@ -37,9 +37,36 @@ This project allows users to generate **strong, secure, and customizable passwor
 
 ## ▶️ How to Run the Project
 
+1. **Check Python installation**
+```bash
 python --version
-password_generator.py
 cd path_to_your_folder
 python password_generator.py
+
+---
+
+## ❌ Why your current version looks wrong
+
+You wrote something like this on **one line**:
+
+GitHub thinks it is **one command**, so it displays it incorrectly.
+
+---
+
+## ✅ Important Rules for GitHub README
+
+- Each command must be on a **new line**
+- Use **triple backticks** ``` to create code blocks
+- Do **not** mix multiple commands in one line
+
+---
+
+If you want, I can:
+- Fix your **entire README formatting**
+- Give a **final submission-ready README**
+- Explain **Markdown basics** in 2 minutes
+
+Just tell me 👍
+
 
 
