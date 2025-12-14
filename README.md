@@ -37,10 +37,9 @@ This project allows users to generate **strong, secure, and customizable passwor
 
 ## ▶️ How to Run the Project
 
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/your-username/password-generator.git
-cd password-generator
+python --version
+password_generator.py
+cd path_to_your_folder
 python password_generator.py
- Project Structure
+
 
