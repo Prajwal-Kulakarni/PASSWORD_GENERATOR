@@ -30,4 +30,7 @@ This project allows users to generate **strong, secure, and customizable passwor
 - **secrets module** (for cryptographically secure password generation)
 - **string module**
 
+## Demo Video link
+https://drive.google.com/drive/folders/16PbKRPvWZCCPN-aeFtbpH0Lt5Jm3lf6R?usp=sharing
+
 
